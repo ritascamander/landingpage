@@ -853,18 +853,79 @@ section.lazy-placeholder:after {
 .cid-sZqJFCzv22 .mbr-text,
 .cid-sZqJFCzv22 .mbr-section-btn {
   text-align: center;
-  color: #e5cfb7;
+  color: #767676;
 }
 .cid-sZqJFCzv22 .item-title {
   text-align: center;
-  color: #c1c1c1;
+  color: #b1a374;
 }
 .cid-sZqJFCzv22 .item-subtitle {
   text-align: center;
   color: #cebfaf;
 }
 .cid-sZqJFCzv22 .mbr-section-subtitle {
-  color: #e5cfb7;
+  color: #cebfaf;
+  text-align: left;
+}
+.cid-t2ewb5onIf {
+  padding-top: 6rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+.cid-t2ewb5onIf img,
+.cid-t2ewb5onIf .item-img {
+  height: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+.cid-t2ewb5onIf .item:focus,
+.cid-t2ewb5onIf span:focus {
+  outline: none;
+}
+.cid-t2ewb5onIf .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-t2ewb5onIf .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-t2ewb5onIf .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-t2ewb5onIf .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-t2ewb5onIf .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-t2ewb5onIf .mbr-section-title {
+  color: #cebfaf;
+  text-align: left;
+}
+.cid-t2ewb5onIf .mbr-text,
+.cid-t2ewb5onIf .mbr-section-btn {
+  text-align: center;
+  color: #767676;
+}
+.cid-t2ewb5onIf .item-title {
+  text-align: center;
+  color: #b1a374;
+}
+.cid-t2ewb5onIf .item-subtitle {
+  text-align: center;
+  color: #cebfaf;
+}
+.cid-t2ewb5onIf .mbr-section-subtitle {
+  color: #cebfaf;
   text-align: left;
 }
 .cid-sZHDPjOTH1 {
@@ -1458,8 +1519,8 @@ section.lazy-placeholder:after {
   display: flex;
   border-radius: 50%;
   text-align: center;
-  color: #e5cfb7;
-  border: 2px solid #e5cfb7;
+  color: #cebfaf;
+  border: 2px solid #cebfaf;
   justify-content: center;
   align-content: center;
   transition: all 0.3s;
@@ -1468,7 +1529,7 @@ section.lazy-placeholder:after {
   padding: 0.6rem;
 }
 .cid-sZqEZfxnrK .mbr-iconfont-social:hover {
-  background-color: #e5cfb7;
+  background-color: #cebfaf;
   color: #000000;
 }
 @media (max-width: 768px) {
@@ -1480,10 +1541,10 @@ section.lazy-placeholder:after {
   }
 }
 .cid-sZqEZfxnrK .mbr-section-title {
-  color: #e5cfb7;
+  color: #cebfaf;
 }
 .cid-sZqEZfxnrK P {
-  color: #e5cfb7;
+  color: #cebfaf;
 }
 .cid-sZvtcAhObw {
   padding-top: 0px;
