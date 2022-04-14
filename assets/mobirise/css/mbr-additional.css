@@ -997,55 +997,27 @@ section.lazy-placeholder:after {
 .cid-sZHDPjOTH1 .mbr-text {
   color: #c1c1c1;
 }
-.cid-t1A59qbBX7 {
-  padding-top: 45px;
-  padding-bottom: 45px;
+.cid-t2Zf7SceTn {
   background: #ffffff;
 }
-.cid-t1A59qbBX7 .images-container.container-fluid {
-  padding: 0;
-}
-.cid-t1A59qbBX7 .media-container-row {
-  margin: 0 auto;
-  align-items: stretch;
-  -webkit-align-items: stretch;
+.cid-t2Zf7SceTn .image-block {
+  margin: auto;
   width: 100% !important;
 }
-.cid-t1A59qbBX7 .media-container-row .img-item {
-  display: -webkit-flex;
-  flex-direction: column;
-  justify-content: center;
+.cid-t2Zf7SceTn .mbr-figure {
+  margin: 0 auto;
+}
+.cid-t2Zf7SceTn figcaption {
   position: relative;
+}
+.cid-t2Zf7SceTn figcaption div {
+  position: absolute;
+  bottom: 0;
   width: 100%;
-  z-index: 1;
-  -webkit-flex-direction: column;
-  -webkit-justify-content: center;
 }
-.cid-t1A59qbBX7 .media-container-row .img-item img {
-  width: 100%;
-  min-height: 1px;
-}
-.cid-t1A59qbBX7 .media-container-row .img-item .img-caption {
-  background: #ffffff;
-  z-index: 2;
-  padding: 1rem 1rem;
-  word-break: break-word;
-}
-.cid-t1A59qbBX7 .media-container-row .img-item .img-caption p {
-  margin-bottom: 0;
-}
-.cid-t1A59qbBX7 .media-container-row .img-item.item1 {
-  padding: 0 2rem 0 0;
-}
-@media (max-width: 992px) {
-  .cid-t1A59qbBX7 .img-item {
+@media (max-width: 768px) {
+  .cid-t2Zf7SceTn .image-block {
     width: 100% !important;
-  }
-  .cid-t1A59qbBX7 .img-item.item1 {
-    width: 100%;
-    flex-basis: initial !important;
-    padding: 0 0 2rem 0 !important;
-    -webkit-flex-basis: initial !important;
   }
 }
 .cid-sZvjZviwkB {
@@ -1532,26 +1504,26 @@ section.lazy-placeholder:after {
 .cid-sZrmEgCXnB H4 {
   color: #cccccc;
 }
-.cid-t2HyuIjRQI {
+.cid-t2ZfEV7J15 {
   background: #ffffff;
 }
-.cid-t2HyuIjRQI .image-block {
+.cid-t2ZfEV7J15 .image-block {
   margin: auto;
   width: 100% !important;
 }
-.cid-t2HyuIjRQI .mbr-figure {
+.cid-t2ZfEV7J15 .mbr-figure {
   margin: 0 auto;
 }
-.cid-t2HyuIjRQI figcaption {
+.cid-t2ZfEV7J15 figcaption {
   position: relative;
 }
-.cid-t2HyuIjRQI figcaption div {
+.cid-t2ZfEV7J15 figcaption div {
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-t2HyuIjRQI .image-block {
+  .cid-t2ZfEV7J15 .image-block {
     width: 100% !important;
   }
 }
