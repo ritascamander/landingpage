@@ -1089,8 +1089,13 @@ section.lazy-placeholder:after {
   padding-bottom: 75px;
   background-color: #ffffff;
 }
+.cid-sZqTBUOTgk .row {
+  margin-left: 0;
+  margin-right: 0;
+}
 .cid-sZqTBUOTgk .item {
-  padding-bottom: 2rem;
+  padding-left: 0;
+  padding-right: 0;
 }
 .cid-sZqTBUOTgk .carousel-control,
 .cid-sZqTBUOTgk .close {
