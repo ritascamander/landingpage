@@ -1290,6 +1290,29 @@ section.lazy-placeholder:after {
 .cid-sZqTBUOTgk H4 {
   color: #cebfaf;
 }
+.cid-t2Zv2VS09N {
+  background: #ffffff;
+}
+.cid-t2Zv2VS09N .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-t2Zv2VS09N .mbr-figure {
+  margin: 0 auto;
+}
+.cid-t2Zv2VS09N figcaption {
+  position: relative;
+}
+.cid-t2Zv2VS09N figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-t2Zv2VS09N .image-block {
+    width: 100% !important;
+  }
+}
 .cid-sZrmEgCXnB {
   padding-top: 30px;
   padding-bottom: 90px;
