@@ -1763,30 +1763,6 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #c9b7d0, #e5cfb7) !important;
 }
-.cid-t1HB2EYhb8 {
-  background: #ffffff;
-  padding-top: 45px;
-  padding-bottom: 15px;
-}
-.cid-t1HB2EYhb8 .image-block {
-  margin: auto;
-}
-.cid-t1HB2EYhb8 .mbr-figure {
-  margin: 0 auto;
-}
-.cid-t1HB2EYhb8 figcaption {
-  position: relative;
-}
-.cid-t1HB2EYhb8 figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-t1HB2EYhb8 .image-block {
-    width: 100% !important;
-  }
-}
 .cid-t30fPzv8zJ .navbar {
   background: #ffffff;
   transition: none;
