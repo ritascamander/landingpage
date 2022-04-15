@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LAURIE",
-    "currentPage": "shop.html",
+    "currentPage": "tweedcolourfusion.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4302,7 +4302,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dnfvfv-1-2000x3000.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -4322,7 +4322,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dnfvfvghwhdg-1-2000x3000.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
