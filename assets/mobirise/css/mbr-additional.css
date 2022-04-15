@@ -4842,15 +4842,3 @@ section.lazy-placeholder:after {
     justify-content: center;
   }
 }
-.cid-t35rgEMLvi {
-  background: #ffffff;
-}
-.cid-t35rgEMLvi .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-t35rgEMLvi .video-block {
-    width: 100% !important;
-  }
-}
