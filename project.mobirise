@@ -14544,7 +14544,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/jbbbxhfgnvv-1-2000x3000.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -14564,7 +14564,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/jbbbxhfgnv-4-2000x3000.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
