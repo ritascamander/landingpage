@@ -1469,8 +1469,17 @@ section.lazy-placeholder:after {
 .cid-sZvKfxwMdo H5 {
   color: #ffffff;
 }
+.cid-t5FAY9Cifp {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-t5FAY9Cifp .mbr-section {
+  text-align: center;
+  color: #fff;
+}
 .cid-t5y4VQbOWl {
-  padding-top: 75px;
+  padding-top: 0px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
