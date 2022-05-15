@@ -14313,7 +14313,7 @@ section.lazy-placeholder:after {
 .cid-t5UvkEPb7w {
   padding-top: 30px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #f5f1eb;
 }
 .cid-t5UvkEPb7w .mbr-section-subtitle {
   color: #cebfaf;
@@ -14353,7 +14353,7 @@ section.lazy-placeholder:after {
   border-top: 1px solid #dcd1c6;
 }
 .cid-t5UvkEPb7w table.table {
-  background: #ffffff;
+  background: #f5f1eb;
 }
 .cid-t5UvkEPb7w .dataTables_filter {
   text-align: right;
@@ -14397,6 +14397,17 @@ section.lazy-placeholder:after {
   color: #cebfaf;
 }
 .cid-t5UvkEPb7w .body-item {
+  color: #cebfaf;
+}
+.cid-t5UCRvRmuk {
+  padding-top: 60px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-t5UCRvRmuk .mbr-section-subtitle {
+  color: #cebfaf;
+}
+.cid-t5UCRvRmuk H2 {
   color: #cebfaf;
 }
 .cid-t5GtUQQ6W9 {
